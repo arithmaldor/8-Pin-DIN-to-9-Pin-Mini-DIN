@@ -1,4 +1,4 @@
-16399547985298223
+16402664633326921
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -42111,13 +42111,6 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
-CUI_MD-90SM
-CUI_MD-90SM
-
-
-0
-12
-12
 digikey-footprints
 3-SIP_Module_TM1000Q
 
@@ -72576,6 +72569,20 @@ C&K_SPDT
 5
 4
 Tinkerplunk
+CUI_MD-40SG
+
+
+0
+7
+7
+Tinkerplunk
+CUI_SJ1-3533NG
+
+
+0
+8
+5
+Tinkerplunk
 MALE_SCART
 
 
@@ -72590,19 +72597,26 @@ PSX_AV
 12
 12
 Tinkerplunk
-S-Video_CUI-40SM
-
+SCART-F-RA
+TV SCART <B>CONNECTOR</B>
 
 0
-7
-7
+21
+21
 Tinkerplunk
-Tall_Skinny_Headphone_Universal_CUI_SJ1-353XNX
+SCART_F_VERT
 
 
 0
-8
-5
+21
+21
+Tinkerplunk
+SNES_PLUG
+
+
+0
+12
+12
 Tinkerplunk
 VGA
 15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
