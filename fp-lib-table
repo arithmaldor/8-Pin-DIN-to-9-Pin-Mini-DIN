@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "8 Pin DIN to 9 Pin Mini DIN")(type KiCad)(uri "${KIPRJMOD}/8 Pin DIN to 9 Pin Mini DIN.pretty")(options "")(descr ""))
+)
