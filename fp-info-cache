@@ -1,4 +1,32 @@
-16402664633326921
+16410478841024698
+8 Pin DIN to 9 Pin Mini DIN
+8_PIN_DIN_MALE
+
+
+0
+8
+8
+8 Pin DIN to 9 Pin Mini DIN
+CUI_MD-90SM
+
+
+0
+10
+10
+8 Pin DIN to 9 Pin Mini DIN
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+8 Pin DIN to 9 Pin Mini DIN
+TestPoint_Pad_1.0x1.0mm
+SMD rectangular pad as test Point, square 1.0mm side length
+test point SMD pad rectangle square
+0
+8
+8
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72554,6 +72582,13 @@ Tinkerplunk
 0
 8
 8
+Tinkerplunk
+262_U_DIN_MAB_8_SH
+
+
+0
+10
+9
 Tinkerplunk
 C&K_SP3T
 
